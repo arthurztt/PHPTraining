@@ -6,7 +6,7 @@
   ];
   
   foreach ($user as $infos){
-    echo "";
+    echo "adadada";
   }
 
 ?>
