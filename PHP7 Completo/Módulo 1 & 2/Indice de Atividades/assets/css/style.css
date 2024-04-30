@@ -19,7 +19,7 @@ body{
 
 .header{
   grid-area: header;
-  background-color: #1867c0;
+  background-color: #145cad;
   color: white;
   display: flex;
   flex-direction: column;
